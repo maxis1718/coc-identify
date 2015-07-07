@@ -20,6 +20,7 @@ var mapping = {
 	"Jian-Cheng Wu": "uuuu",
 	"Jim Hsiao" : "小良村",
 	"Jim Lin" : "Jimmy",
+	"Joseph Yen": "Joe",
 	"Kenny Chen" : "Donny",
 	"Koromiko Neo" : "Neo",
 	"Maxis Kao" : "Maxis",
@@ -59,7 +60,24 @@ var mapping = {
 	"顏孜羲" : "joe",
 	"黃品惇" : "小村莊",
 	"黃小羊" : "buubble",
-	"吳秉昇" : "WIDEFIRE"
+	"吳秉昇" : "WIDEFIRE",
+	"Edward Chen" : "Ed's village",
+	"Mark Liao" : "panda_monium",
+	"Isaac Li" : "isaac",
+	"Jeff Chien" : "Thats_Nice",
+	"Jeffrey Tsung" : "JT Village",
+	"詹政勳" : "Vincent",
+	"張承堯" : "村正",
+	"韓奕君" : "LULU",
+	"潘玫樺" : "ㄊㄊ",
+	"Philip Chen" : "敦南真田廣之",
+	"黃泓昇" : "karai",
+	"林宗毅" : "pokemon village",
+	"簡茂峯" : "lalala",
+	"洪舜昶" : "洪舜昶是哪位沒自介！",
+	"張力允" : "安安",
+	"Rafe Huang" : "Rafe Huang 是哪位沒自介！",
+	"Chin-Jung Liu": "cjliu1984"
 }
 
 // english version
