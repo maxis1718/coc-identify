@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "identity",
+  "description": "Help to find the user id in Clash of Clans",
+  "version": "1.1",
+
+  "browser_action": {
+    "default_title": "give me CoC user id",
+    "default_icon": "icon.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "background": {
+    "scripts": ["mapping.js"],
+    "persistent": false
+  }
+}
